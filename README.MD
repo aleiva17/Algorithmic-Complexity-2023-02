@@ -30,3 +30,6 @@ You have two options:
 * Sudoku Solver
 * N Queens
 * Bruteforce problems 
+
+### Week 03: Practice for PC1
+* Theory, backtracking, bruteforce, recursion, divide and conquer problems from past exams
