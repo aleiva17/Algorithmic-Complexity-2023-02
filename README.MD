@@ -33,3 +33,10 @@ You have two options:
 
 ### Week 03: Practice for PC1
 * Theory, backtracking, bruteforce, recursion, divide and conquer problems from past exams
+
+### Week 04: Introduction to Graphs (DFS & BFS)
+* DFS Iterative and Recursive
+* BFS
+* Count component
+* Max length component
+* Shortest Path
