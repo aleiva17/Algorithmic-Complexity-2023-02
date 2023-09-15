@@ -40,3 +40,7 @@ You have two options:
 * Count component
 * Max length component
 * Shortest Path
+
+### Week 05: More about DFS & BFS
+* Read a graph from input file
+* Random DFS Implementation
