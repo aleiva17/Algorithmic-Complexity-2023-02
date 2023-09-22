@@ -44,3 +44,7 @@ You have two options:
 ### Week 05: More about DFS & BFS
 * Read a graph from input file
 * Random DFS Implementation
+
+### Week 06: Toposort iterative & recursive
+* Read a graph from input file
+* Toposort iterative and recursive implementation
